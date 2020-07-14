@@ -1,23 +1,37 @@
-# CLUED'IUTO
+# Space Invaders
 
-CLUED'IUTO est une variante du jeu Cluedo basée sur l'IUT Informatique d'Orléans
-
+Space Invaders est un jeu Java-JavaFx avec du graphisme ASCII
 
 ### Prérequis
 
-Avoir Python3
+Avoir Java
 ```sh
 $ sudo apt-get update
-$ sudo apt-get install python3.6
+$ sudo apt-get install openjdk-8-jre
 ```
 
+Avoir JavaFX
+```sh
+$ sudo apt-get update
+$ sudo apt install openjfx
 ### Lancement
 
 ```sh
-$ python3 cluedoTexte.py
+$javac *.java
+$java Executable
 ou
 $ ./run.sh
 ```
+
+### Commandes
+- Déplacement: fleches du clavier
+- Tirer: [SPACE] 
+- Start: [ENTER]
+
+### TODO
+- Faire un mode histoire
+- Pouvoir modifer les commandes
+- Rendre le mode Solo plus dur
 
 ### Copyright
 
