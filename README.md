@@ -1,6 +1,6 @@
 # Space Invaders
 
-Space Invaders est un jeu Java-JavaFx avec du graphisme ASCII
+Space Invaders est un jeu Java avec du graphisme ASCII
 
 ### Prérequis
 
@@ -8,12 +8,6 @@ Avoir Java
 ```sh
 $ sudo apt-get update
 $ sudo apt-get install openjdk-8-jre
-```
-
-Avoir JavaFX
-```sh
-$ sudo apt-get update
-$ sudo apt install openjfx
 ```
 
 ### Lancement
