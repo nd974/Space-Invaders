@@ -14,6 +14,8 @@ Avoir JavaFX
 ```sh
 $ sudo apt-get update
 $ sudo apt install openjfx
+```
+
 ### Lancement
 
 ```sh
